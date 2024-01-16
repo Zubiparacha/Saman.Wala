@@ -1,0 +1,94 @@
+* {
+    padding: 0;
+    margin: 0;
+    color:black;
+}
+#navbar {
+    position: fixed;
+    top: 0;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #df8d5b
+
+}
+#footer{
+    position: fixed;
+    right: 0px;
+    bottom: 50px;
+    height: 30px;
+    width: 100px;
+}
+button {
+    color: aliceblue;
+    margin-top: 21px;
+    height: 20px;
+    background-color:#071304
+
+}
+input {
+    color: black;
+    margin-top: 20px;
+    height: 20px;
+}
+#logo {
+    margin-top: 10px;
+    color:#1c2c17;
+    font-size: 25px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a {
+    font-size: 20px; 
+    margin-top: 20px;
+    color: #071304;
+    margin-right: 130px;
+    text-decoration: none;
+}
+#images {
+    margin-top: 18px;   
+}
+#cricle {
+    margin-top:12px;
+    position: relative;
+    right:20px;
+}
+h5 {
+    margin-top:15px;
+    color: aliceblue;
+    position:relative  ;
+    right:48px;
+
+}
+div {
+    padding: 5px;
+    background-color: #d15a0f;
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom: 42px;
+
+}
+.child1 {
+    text-align: center;
+    margin: 30px 2 0px 20px 20px;
+    background-color:  #df8d5b;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+p {
+    position: relative;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    left:113px;
+    bottom: 180px;
+    height: 30px;
+    width: 50px;
+    background-color:#df8d5b;
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+}
